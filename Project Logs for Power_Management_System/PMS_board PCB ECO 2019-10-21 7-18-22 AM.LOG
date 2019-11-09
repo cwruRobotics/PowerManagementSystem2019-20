@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=E_STOP Pin=D3-2
+Removed Pin From Net: NetName=E_STOP Pin=K1-1
+Removed Pin From Net: NetName=COIL_DRIVE Pin=R35-2
+Removed Pin From Net: NetName=COIL_DRIVE Pin=U2-13
+Added Component: Designator=Q4(sot-23-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cost"; Value = "0.48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "NSS1C201LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power"; Value = "490mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "XSTR-00021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs/Vce"; Value = "0.15V"; VariantName = "[No Variations]"
+Added Component: Designator=R59(chip_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "KTR10EZPF1001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00361"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R60(chip_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "KTR10EZPF1002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00307"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=E_STOP Pin=Q4-2
+Added Pin To Net: NetName=24V Pin=R59-2
+Added Pin To Net: NetName=COIL_EN Pin=Q4-1
+Added Pin To Net: NetName=COIL_EN Pin=R60-2
+Added Net: Name=COIL_EN
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=K1-1
+Added Pin To Net: NetName=NetD3_2 Pin=Q4-3
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR35_2 Pin=R59-1
+Added Pin To Net: NetName=NetR35_2 Pin=R60-1
+Added Pin To Net: NetName=NetR35_2 Pin=U2-13
+Added Net: Name=NetR35_2
+Added Member To Class: ClassName=power_input_SCH1 Member=Component Q4 npn-bjt_0
+Added Member To Class: ClassName=power_input_SCH1 Member=Component R59 res_single
+Added Member To Class: ClassName=power_input_SCH1 Member=Component R60 res_single

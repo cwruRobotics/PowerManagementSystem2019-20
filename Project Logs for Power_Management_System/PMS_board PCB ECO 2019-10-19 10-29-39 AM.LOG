@@ -1,0 +1,16 @@
+Added Component: Designator=P35(KEYSTONE_7798)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cost"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "7798"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CONN-00042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions per level"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Screw Terminal"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P35-1
+Added Pin To Net: NetName=GND Pin=P35-1
+Added Pin To Net: NetName=GND Pin=P35-1
+Added Pin To Net: NetName=GND Pin=P35-1
+Added Pin To Net: NetName=GND Pin=P35-1
+Added Pin To Net: NetName=GND Pin=P35-1
+Added Member To Class: ClassName=power_output_SCH3 Member=Component P35 conn-1x1_0

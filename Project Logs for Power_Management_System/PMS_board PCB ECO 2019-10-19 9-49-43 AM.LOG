@@ -1,0 +1,83 @@
+Change Component Footprint: Designator=C1 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C2 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C5 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C7 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C8 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C11 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=D7 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=D8 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=D9 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C3 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=C4 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=C6 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=C9 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=C10 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=C13 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R1 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R2 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R3 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R4 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R5 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R6 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R7 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R8 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R9 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R10 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R11 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R12 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R13 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R14 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R15 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R16 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R17 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R28 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R29 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R30 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R31 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R32 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R33 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R34 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R35 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R36 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R37 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R38 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R39 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R40 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R41 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R42 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R43 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R44 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R45 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R46 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R47 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R48 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R49 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R50 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R51 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R52 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R54 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R55 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R56 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R57 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R58 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=C12 Old Footprint=chip_1206 New Footprint=chip_1206
+Change Component Footprint: Designator=R18 Old Footprint=chip_1206 New Footprint=chip_1206
+Change Component Footprint: Designator=R19 Old Footprint=chip_1206 New Footprint=chip_1206
+Change Component Footprint: Designator=R20 Old Footprint=chip_1206 New Footprint=chip_1206
+Change Component Footprint: Designator=R21 Old Footprint=chip_1206 New Footprint=chip_1206
+Change Component Footprint: Designator=R22 Old Footprint=chip_1206 New Footprint=chip_1206
+Change Component Footprint: Designator=R23 Old Footprint=chip_1206 New Footprint=chip_1206
+Change Component Footprint: Designator=R24 Old Footprint=chip_1206 New Footprint=chip_1206
+Change Component Footprint: Designator=R25 Old Footprint=chip_1206 New Footprint=chip_1206
+Change Component Footprint: Designator=R26 Old Footprint=chip_1206 New Footprint=chip_1206
+Change Component Footprint: Designator=R27 Old Footprint=chip_1206 New Footprint=chip_1206
+Change Component Footprint: Designator=P33 Old Footprint=hddr_3x1_0 New Footprint=hddr_3x1_0
+Change Component Footprint: Designator=R53 Old Footprint=TO-247-2_0 New Footprint=TO-247-2-H
+Change component parameters: Designator = "R53"; Footprint = "TO-247-2-H"; UniqueID = "\OQGOROAR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Caddock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "MP9100-0.075-1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES-00688"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "100W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0.075"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
