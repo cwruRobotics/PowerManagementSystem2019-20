@@ -1,0 +1,29 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Power_Management_System.PrjPCB]
+   Generated File[PMS_board_Copper_Signal_Top.gbr]
+   Generated File[PMS_board_Copper_Signal_Bot.gbr]
+   Generated File[PMS_board_Pads_Bot.gbr]
+   Generated File[PMS_board_Pads_Top.gbr]
+   Generated File[PMS_board_Legend_Bot.gbr]
+   Generated File[PMS_board_Soldermask_Bot.gbr]
+   Generated File[PMS_board_Paste_Bot.gbr]
+   Generated File[PMS_board_Legend_Top.gbr]
+   Generated File[PMS_board_Paste_Top.gbr]
+   Generated File[PMS_board_Soldermask_Top.gbr]
+   Generated File[PMS_board_Mechanical_13.gbr]
+   Generated File[PMS_board_Mechanical_1.gbr]
+   Generated File[PMS_board_Mechanical_15.gbr]
+   Generated File[PMS_board_Profile.gbr]
+   Generated File[PMS_board_PTH_Drill.gbr]
+   Generated File[PMS_board_Drawing_1.gbr]
+   Generated File[PMS_board_Drillmap_1.gbr]
+   Generated File[PMS_board.RUL]
+   Generated File[PMS_board.EXTREP]
+   Generated File[PMS_board.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 12:36:52 AM On 2019-12-04
